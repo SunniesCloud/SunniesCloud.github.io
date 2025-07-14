@@ -1,0 +1,42 @@
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+
+}
+body {
+    font-size: 1.6em;
+    color: darkblue;
+    background: aliceblue;
+}
+header {
+    width: 100%;
+    height: 600px;
+    background: aliceblue;
+}
+#about {
+    width: 100%;
+    min-height: 700px;
+    background: aliceblue;
+
+}
+#aboutLeft {
+    width: 50%;
+    min-height: 700px;
+    background: lightblue;
+    float: left;
+}
+#aboutRight {
+    width: 50%;
+    min-height: 700px;
+    background: powderblue;
+    float: right;
+}
+footer {
+    width: 100%;
+    min-height: 700px;
+    background: #36454F;
+
+}
